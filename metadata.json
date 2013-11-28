@@ -1,0 +1,13 @@
+{
+  "name": "davidcollom-raxmonitoragent",
+  "version": "0.1.0",
+  "summary": "Rackspace Server Monitoring Agent",
+  "author": "David Collom",
+  "description": "Installs and configures / Registered server with rackspace monitoring service",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "",
+  "project_page": "",
+  "license": "MIT"
+}
